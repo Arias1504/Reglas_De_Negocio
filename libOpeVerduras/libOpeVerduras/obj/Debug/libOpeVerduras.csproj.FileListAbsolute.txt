@@ -1,0 +1,9 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\bin\Debug\libOpeVerduras.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\bin\Debug\libOpeVerduras.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\bin\Debug\libRnVerduras.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\bin\Debug\libRnVerduras.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\obj\Debug\libOpeVerduras.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\obj\Debug\libOpeVerduras.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\obj\Debug\libOpeVerduras.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\obj\Debug\libOpeVerduras.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libOpeVerduras\libOpeVerduras\obj\Debug\libOpeVerduras.pdb

@@ -1,0 +1,15 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\bin\Debug\VerdurasDelCampo.exe.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\bin\Debug\VerdurasDelCampo.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\bin\Debug\VerdurasDelCampo.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.Form1.resources
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.Properties.Resources.resources
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.csproj.GenerateResource.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\bin\Debug\libOpeVerduras.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\bin\Debug\libRnVerduras.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\bin\Debug\libOpeVerduras.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\bin\Debug\libRnVerduras.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\VerdurasDelCampo\VerdurasDelCampo\obj\Debug\VerdurasDelCampo.csproj.CopyComplete

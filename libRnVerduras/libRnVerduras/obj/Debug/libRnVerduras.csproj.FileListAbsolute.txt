@@ -1,0 +1,6 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libRnVerduras\libRnVerduras\bin\Debug\libRnVerduras.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libRnVerduras\libRnVerduras\bin\Debug\libRnVerduras.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libRnVerduras\libRnVerduras\obj\Debug\libRnVerduras.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libRnVerduras\libRnVerduras\obj\Debug\libRnVerduras.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libRnVerduras\libRnVerduras\obj\Debug\libRnVerduras.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_2\Punto_4\libRnVerduras\libRnVerduras\obj\Debug\libRnVerduras.pdb
